@@ -1,2 +1,4 @@
 # altREU-Research-Project-Code
-Code for the Stock Prediction Model
+This project uses machine learning to predict stock prices by combining historical market data with sentiment analysis from news articles and social media. We implemented models that focused on Linear Regression as the main supervised machine learning algorithm, with performance evaluated using Mean Absolute Error (MAE). The integration of sentiment data collected using VADER and scraped using BeautifulSoup improved prediction accuracy by 3.2%, demonstrating the value of incorporating qualitative data alongside traditional financial metrics.
+
+The project was developed during the altREU research program at Portland State University, and focuses on major technology stocks such as Apple, Microsoft, and Google. Full methodology, results, and analysis are detailed in the following research paper.
