@@ -35,6 +35,7 @@ The project collects historical stock prices and correlates them with sentiment 
 
 ## Additional Resources
 
-- [Final Research Paper (PDF)](./altREU_Research_Paper_Final.pdf)
+- [Final Research Paper](./altREU_Research_Paper_Final.pdf)
 - [VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
 - [Yahoo Finance Python API](https://pypi.org/project/yfinance/)
+- [Finviz Stock Screener](https://finviz.com/)
