@@ -10,8 +10,8 @@ The project collects historical stock prices and correlates them with sentiment 
 
 ## Features
 
-- Sentiment analysis using VADER and TextBlob
-- Historical stock data collection via Yahoo Finance
+- Sentiment analysis and web scraping using VADER and BeautifulSoup
+- Historical stock data collection through Yahoo Finance
 - Sentiment score aggregation and normalization
 - Machine learning model for stock movement prediction
 - Modular Python scripts for analysis and reproducibility
